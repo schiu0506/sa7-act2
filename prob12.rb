@@ -1,4 +1,4 @@
-file_path = "sample.rtf"
+file_path = "sample.txt"
 
 File.open(file_path, "r") do |file|
   line_number = 1
